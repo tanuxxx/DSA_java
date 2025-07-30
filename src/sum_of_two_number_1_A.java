@@ -1,4 +1,4 @@
-public class sum_of_two_number {
+public class sum_of_two_number_1_A {
     public static void main(String[] args) {
         int a = 3;
         int b = 4;

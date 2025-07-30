@@ -1,4 +1,4 @@
-public class min_number {
+public class min_number_4_A {
     public static void main(String[] args) {
         int a = 3;
         int b = 6;

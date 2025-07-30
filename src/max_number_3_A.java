@@ -1,4 +1,4 @@
-public class max_number {
+public class max_number_3_A {
     public static void main(String[] args) {
         int n = 4;
         int m = 9;

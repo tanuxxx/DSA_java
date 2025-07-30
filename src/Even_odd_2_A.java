@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Even_odd {
+public class Even_odd_2_A {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

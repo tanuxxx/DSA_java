@@ -1,4 +1,4 @@
-public class GCD_of_number {
+public class GCD_of_number_5_A {
     public static void main(String[] args) {
      int a = 12;
      int b = 18;
