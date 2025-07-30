@@ -3,7 +3,7 @@ public class B5_Fibonacci_series {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("enter tearms: ");
+        System.out.println("enter terms: ");
 
         int n = sc.nextInt();
 
