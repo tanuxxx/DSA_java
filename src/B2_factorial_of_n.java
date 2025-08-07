@@ -6,6 +6,7 @@ public class B2_factorial_of_n{
         while (i<=n){
             fact *= i;
             i++;
+            System.out.print(i+" ");
         }
         System.out.println(fact);
     }
