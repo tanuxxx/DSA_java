@@ -4,7 +4,7 @@ public class B4_count {
         long number = 2028;
 
         while(number != 0){
-            number /= 10;        //divide the number by 10 upto the the number becomes 0.2028
+            number /= 10;        //divide the number by 10 upto the number becomes 0.2028
             count++;
         }
         System.out.println(count);
