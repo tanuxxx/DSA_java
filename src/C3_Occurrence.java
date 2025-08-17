@@ -15,14 +15,26 @@ public class C3_Occurrence {
         System.out.print("Occurrence of number: ");
         int c = sc.nextInt();
 
+        int count[] = new int[101];
+        for(int i = 0; i < n; i++){
+            count [arr[i]]= count [arr[i]] + 1;
+        }
+        for(int i =0; i < 101; i++){
+            if(count[i] != 0){
+                System.out.println(i + " " + count[i]);
+            }
+
+        }
+
+
         //check how many times c appears
-        int count= 0;
+        int coun= 0;
         for(int num : arr){
             if(num == c){  //check every element in array
-                count++;
+                coun++;
             }
         }
-        System.out.println(count);
+
 
     }
 }
